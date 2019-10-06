@@ -1,0 +1,29 @@
+* {
+    height: auto;
+}
+h1 {
+    text-align: center;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+#stiri {
+    height: auto;
+}
+
+#stiri p {
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+    border-top: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0 auto 5px;
+    width: 90%;
+}

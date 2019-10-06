@@ -1,0 +1,40 @@
+#diverse {
+    width: 100%;
+    position: absolute;
+    top: 35px;
+    left: 0;
+    background: rgba( 0, 0, 0, 0.95);
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+    height: auto;
+}
+
+#diverse span {
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.posturi {
+    background-color: aqua;
+    padding: 20px 0;
+    color: black;
+    width: 90%;
+    margin: 10px auto; 
+}
+
+.posturi p {
+    height: auto;
+}
+
+.posturi span {
+    background-color: yellow;
+    color: blue;
+    border-radius: 100px;
+    display: inline-block;
+    width: 60px;
+    height: 50px;
+    line-height: 50px;
+}
